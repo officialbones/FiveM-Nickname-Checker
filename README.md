@@ -99,7 +99,9 @@ When the resource starts, it’ll print the BONES DEV skull in the console and b
   - `GUILD_MEMBERS` intent enabled
   - Bot token
   - Access to the guild (server)
-
+---
+## Support Server 🖥️
+  - https://discord.gg/hBXsshCtjC
 ---
 
 ## 🧠 Bonus Tips
@@ -108,7 +110,7 @@ When the resource starts, it’ll print the BONES DEV skull in the console and b
 - Log mismatches or failed attempts to a webhook
 - Use `fs.appendFileSync` in Node to create join logs
 - Add Discord embeds to make it look beautiful in your logs
-
+- A current Discord bot can be used as this doesn't directly run the bot. I reccomend to not use a moderation bot, but rather something that your server uses for permissions.
 ---
 
 ## ☠️ Console Preview
